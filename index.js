@@ -1,2 +1,2 @@
 //bikinin index dulu
-//jangan lupa pake next js
+//jangan lupa pake nextjs
